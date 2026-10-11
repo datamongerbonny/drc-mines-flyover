@@ -1,0 +1,13 @@
+# rendered output - never commit frames or videos
+drc_3d_tour_frames/
+drc_flyover_frames/
+drc_3d_orbits/
+frame_*.png
+*.mp4
+render_settings.json
+# QGIS / OS / Python clutter
+*.qgs~
+*.qgz~
+.DS_Store
+__pycache__/
+*.pyc
