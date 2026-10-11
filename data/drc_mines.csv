@@ -1,0 +1,19 @@
+tour_order,name,commodity,province,lat,lon,coord_quality,coord_source
+1,Kibali Gold Mine (KCD pit),Gold,Haut-Uele,3.11189,29.5801,verified,mindat loc-413025
+2,Bisie Tin Mine (Mpama North),Tin,North Kivu,-1.03325,27.74458,verified,mindat loc-413124
+3,Rubaya coltan workings,Coltan (Ta/Nb),North Kivu,-1.56,28.88,approx - check imagery,manual estimate
+4,Twangiza gold mine,Gold,South Kivu,-2.88,28.73,approx - check imagery,manual estimate
+5,Namoya gold mine,Gold,Maniema,-3.98,27.58,approx - check imagery,manual estimate
+6,Manono lithium (Roche Dure),Lithium/Tin,Tanganyika,-7.31,27.39,approx - check imagery,manual estimate
+7,MIBA diamond fields (Mbuji-Mayi),Diamonds,Kasai-Oriental,-6.15,23.62,approx - check imagery,manual estimate
+8,Kamoa-Kakula,Copper,Lualaba,-10.76773,25.25412,verified (Kamoa village),mindat loc-412991
+9,Dikuluwe (Sicomines),Copper/Cobalt,Lualaba,-10.74444,25.3625,verified,mindat Dikuluwe Mine
+10,Kamoto / KOV open pit,Copper/Cobalt,Lualaba,-10.715,25.42361,verified,mindat KOV Open cut
+11,Mutanda,Copper/Cobalt,Lualaba,-10.78722,25.80944,verified,mindat Mutanda Mine
+12,Kisanfu,Cobalt/Copper,Lualaba,-10.79,25.96,approx - check imagery,manual estimate
+13,Tenke - Kwatebala pit,Copper/Cobalt,Lualaba,-10.5795,26.19009,verified,mindat loc-413061
+14,Fungurume pit,Copper/Cobalt,Lualaba,-10.61303,26.29715,verified,mindat loc-425795
+15,Kinsevere,Copper,Haut-Katanga,-11.35778,27.57139,verified,mindat Kinsevere mine
+16,Ruashi,Copper/Cobalt,Haut-Katanga,-11.61667,27.54167,verified,mindat loc-4338
+17,Etoile du Congo,Copper/Cobalt,Haut-Katanga,-11.63417,27.58056,verified,mindat L'Etoile du Congo Mine
+18,Kipushi,Zinc/Copper,Haut-Katanga,-11.76556,27.23333,verified,mindat Kipushi Mine
